@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+PyPDF2
+spacy==3.7.4
+scikit-learn
+sentence-transformers
+blis==0.7.9
+catalogue<2.1.0
+thinc<8.3.0
+srsly<3.0.0
+preshed<4.0.0
+cymem<3.0.0
+
