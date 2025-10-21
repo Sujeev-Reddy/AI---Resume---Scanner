@@ -1,0 +1,17 @@
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+PyPDF2==3.0.1
+spacy==3.7.4
+scikit-learn==1.5.1
+sentence-transformers==2.2.2
+torch==2.2.2
+transformers==4.41.2
+blis==0.7.9
+catalogue==2.0.10
+thinc==8.2.3
+typing-extensions==4.9.0
+altair==5.2.0
+uvicorn==0.29.0
+
+
